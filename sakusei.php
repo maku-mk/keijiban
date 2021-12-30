@@ -11,7 +11,7 @@ if (!isset($_SESSION["NAME"])) {
 <html>
    <head>
     <meta charset="UTF-8">
-    <title>山谷？？掲示板</title>
+    <title>掲示板</title>
 <style type="text/css">
 body{
   text-align: center;
