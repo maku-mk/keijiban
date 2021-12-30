@@ -164,8 +164,7 @@ function test(){
     <li class="tab-item active">メイン（雑談系）</li>
     <li class="tab-item">ゲーム系</li>
     <li class="tab-item">バラエティ</li>
-    <li class="tab-item">その他</li>
-    <li class="tab-item">ユーザー一覧</li>
+     <li class="tab-item">その他</li>
   </ul><!-- /.tab_menu -->
   <p></p>
   <!--  コンテンツ  -->
@@ -174,6 +173,5 @@ function test(){
     <div class="tab-content"><?php include('game.txt'); ?></div>
     <div class="tab-content"><?php include('variety.txt'); ?></div>
     <div class="tab-content"><?php include('sonota.txt'); ?></div>
-    <div class="tab-content"><?php include('user.txt'); ?></div>
   </div>
 </div>
