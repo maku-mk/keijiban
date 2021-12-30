@@ -1,0 +1,3 @@
+<Files ~ "^setting\.php$">
+deny from all
+</Files>
